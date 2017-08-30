@@ -1,6 +1,6 @@
 ## Welcome to Python Hand Notes
 
-You can use the [editor on GitHub](https://github.com/vubon/python-handnote/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+First all you need to install Python software from [Python.org](https://python.org) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
