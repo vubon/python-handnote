@@ -1,3 +1,16 @@
 theme: jekyll-theme-cayman
 title: Python Hand Notes
 show_downloads: true
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble: 
+  email: vubon.roy@gmail.com
+  facebook: 
+  flickr: 
+  github: vubon
+  instagram: 
+  linkedin: bazclark
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: baznyc
