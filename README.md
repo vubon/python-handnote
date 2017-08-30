@@ -6,7 +6,8 @@ Firstly you need to install Python software from [Python.org](https://python.org
 ---
 Python is scripting, General Purpose, High-Level Programming lanaguage and many more. Python created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 
-### Markdown
+### Example
+---
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
