@@ -39,7 +39,7 @@ Python has two types of control flow.
 
 ### If Statement Structure with Example 
 
-#####Structure
+##### Structure
 ```
 if (condition):
   #Do something here
@@ -57,5 +57,13 @@ else:
 # if you have nothing. Do not need to write else statement 
 ```
 
-#### Example
+##### Example
+A basic example of our daily life.
+```
+if 4 > 3:
+  print('Yes, 4 is greater than 3.')
+else:
+  print('Sorry')
+
+```
 
