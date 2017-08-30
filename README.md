@@ -2,6 +2,8 @@
 
 First all you need to install Python software from [Python.org](https://python.org) 
 
+### Short Description about Python
+---
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
