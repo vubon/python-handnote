@@ -1,26 +1,34 @@
 ## Welcome to Python Hand Notes
 
-Firstly you need to install Python software from [Python.org](https://python.org) 
+We are trying to help new commer who has no knowledge about Python. If you are a Pythonist. You can also contribute this repository. So don't wait share your knowledge all over in the world.. 
+
+> Knowledge is a shareable object. It helps to increase knowledge, who shares knowledge to everyone.
+> -Vubon Roy
+
 
 ### Short Description about Python
 ---
 Python is scripting, General Purpose, High-Level Programming lanaguage and many more. Python created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 
+
+### Installation 
+Firstly you need to install Python software in your machine. Go to Python website [Python.org](https://python.org) 
+
+You can install any OS . So don't worry. 
+
+All right. After install the Python software. You will get IDLE . If you are using Windows machine. Don't worry if you are using Linux machine. you can directly run the Python program via Terminal and also Windows users can run by CMD. 
+
+
 ### Example
 ---
-Let's write a sample example program by Python
+Let's write a sample example. create a text file and change that text file extension .txt to .py . Suppose your file name is hello.txt then you need to make the file hello.py . Now open your cmd(Windows machine) or terminal(Linux machine) and run below command 
+
+python hello.py 
 
 ```
 print("Hello World!")
-
 ```
+N.B. Default Linux machchine has Python 2.x version . If you installed Python 3.x version then please run this way 
+python3 hello.py
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vubon/python-handnote/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
