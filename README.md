@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Python Hand Notes
 
 You can use the [editor on GitHub](https://github.com/vubon/python-handnote/edit/master/readme.md) to maintain and preview the content for your website in Markdown files.
 
