@@ -31,4 +31,8 @@ print("Hello World!")
 N.B. Default Linux machine has Python 2.x version . If you installed Python 3.x version then please run this way 
 python3 hello.py
 
-
+### Control Flow 
+---
+Python has two types of control flow. 
+1. If statement 
+2. Loop
