@@ -39,6 +39,7 @@ Python has two types of control flow.
 
 ### If Statement Structure with Example 
 
+#####Structure
 ```
 if (condition):
   #Do something here
@@ -46,3 +47,15 @@ else:
    # also here 
 
 ```
+If you have more conditions
+```
+if (condition):
+ # Apply your login here
+elif (second condition):
+# also here 
+else: 
+# if you have nothing. Do not need to write else statement 
+```
+
+#### Example
+
