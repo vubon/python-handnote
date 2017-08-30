@@ -1,10 +1,10 @@
 ## Welcome to Python Hand Notes
 
-First all you need to install Python software from [Python.org](https://python.org) 
+Firstly you need to install Python software from [Python.org](https://python.org) 
 
 ### Short Description about Python
 ---
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Python is scripting, General Purpose, High-Level Programming lanaguage and many more. Python created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 
 ### Markdown
 
