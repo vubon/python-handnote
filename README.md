@@ -36,3 +36,13 @@ python3 hello.py
 Python has two types of control flow. 
 1. If statement 
 2. Loop
+
+### If Statement Structure with Example 
+
+```
+if (condition):
+  #Do something here
+else:
+   # also here 
+
+```
