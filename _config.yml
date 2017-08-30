@@ -13,3 +13,7 @@ footer-links:
   linkedin: 
   pinterest: 
   twitter: 
+
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
