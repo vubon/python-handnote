@@ -3,7 +3,7 @@
 We are trying to help new commer who has no knowledge about Python. If you are a Pythonist. You can also contribute this repository. So don't wait share your knowledge all over in the world.. 
 
 > Knowledge is a shareable object. It helps to increase knowledge, who shares knowledge to everyone.
-> -Vubon Roy
+>  -Vubon Roy
 
 
 ### Short Description about Python
@@ -28,7 +28,7 @@ python hello.py
 ```
 print("Hello World!")
 ```
-N.B. Default Linux machchine has Python 2.x version . If you installed Python 3.x version then please run this way 
+N.B. Default Linux machine has Python 2.x version . If you installed Python 3.x version then please run this way 
 python3 hello.py
 
 
