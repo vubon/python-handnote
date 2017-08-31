@@ -35,7 +35,7 @@ python3 hello.py
 ---
 Python has two types of control flow. 
 1. If statement 
-2. Loop
+2. Loops
 
 ### If Statement Structure with Example 
 
@@ -65,5 +65,28 @@ if 4 > 3:
 else:
   print('Sorry')
 
-```
+``` 
+##### Loops
+Python loops basically two types 
+1. For Loop
+2. While Loop
 
+##### For Loop
+ Let's find 1 to 10 sequence 
+```
+for x in range(1,10+1):
+  print(x)
+
+#### Output
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+Here x is variable of foor loop and range is a function who defined from where to where need to find . 
