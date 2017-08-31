@@ -32,6 +32,7 @@ N.B. Default Linux machine has Python 2.x version . If you installed Python 3.x 
 python3 hello.py
 
 ### What is String ?
+---
 In computer science string is a sequence of characters and characters can be Alphabet , Numeric , Alpha-numeric. In computer science string defined by " " or  ' '. 
 
 Example: 
@@ -40,7 +41,9 @@ s = "Vubon"
 ```
 here ```Vubon``` is a string and it is alphabet string. ```s``` is a variable and I assign ```Vubon``` 
 
+#### String Methods
 
+comming soon 
 
 ### Control Flow 
 ---
